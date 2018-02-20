@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(mdr_simulation)
+project(mas_simulation)
 find_package(catkin REQUIRED)
 catkin_metapackage()

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>mdr_simulation</name>
+  <name>mas_simulation</name>
   <version>1.2.0</version>
-  <description>The mdr_simulation package</description>
+  <description>The mas_simulation meta package</description>
 
   <author email="matthias.fueller@h-brs.de">Matthias Füller</author>
   <maintainer email="robotics@inf.h-brs.de">MAS robotics</maintainer>
